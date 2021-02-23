@@ -94,5 +94,8 @@ $ loseup --version
 losetup from util-linux 2.34
 ```
 
+## 参考
+- [Ubuntu Manpage: losetup - loop デバイスの設定と制御を行う](http://manpages.ubuntu.com/manpages/focal/ja/man8/losetup.8.html)
+
 ---
 (c) 2021 NAKASONE Hiroshi
